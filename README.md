@@ -33,7 +33,7 @@ Make sure the following are installed on your machine:
 
 ### 1. Start Kafka & Zookeeper
 1. cd /backend
-2 docker-compose up -d
+2. docker-compose up -d
 
 ### 2. Backend Setup
 1. cd /backend
