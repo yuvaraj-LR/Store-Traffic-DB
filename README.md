@@ -45,7 +45,7 @@ Make sure the following are installed on your machine:
 2. node producer.js
 
 ### 4. Frontend Setup
-1. cd /frontend
+1. cd /Frontend/frontend
 2. npm install
 3. npm start
 
